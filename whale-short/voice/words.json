@@ -1,0 +1,1295 @@
+{
+  "duration": 83.32,
+  "fps": 30,
+  "totalFrames": 2515,
+  "words": [
+    {
+      "word": "In",
+      "start": 0.0,
+      "end": 0.34,
+      "startFrame": 0,
+      "endFrame": 10
+    },
+    {
+      "word": "1970,",
+      "start": 0.34,
+      "end": 1.28,
+      "startFrame": 10,
+      "endFrame": 38
+    },
+    {
+      "word": "a",
+      "start": 1.94,
+      "end": 1.98,
+      "startFrame": 58,
+      "endFrame": 59
+    },
+    {
+      "word": "quiet",
+      "start": 1.98,
+      "end": 2.3,
+      "startFrame": 59,
+      "endFrame": 69
+    },
+    {
+      "word": "beach",
+      "start": 2.3,
+      "end": 2.62,
+      "startFrame": 69,
+      "endFrame": 79
+    },
+    {
+      "word": "town",
+      "start": 2.62,
+      "end": 3.06,
+      "startFrame": 79,
+      "endFrame": 92
+    },
+    {
+      "word": "woke",
+      "start": 3.06,
+      "end": 3.42,
+      "startFrame": 92,
+      "endFrame": 103
+    },
+    {
+      "word": "up",
+      "start": 3.42,
+      "end": 3.68,
+      "startFrame": 103,
+      "endFrame": 110
+    },
+    {
+      "word": "to",
+      "start": 3.68,
+      "end": 3.96,
+      "startFrame": 110,
+      "endFrame": 119
+    },
+    {
+      "word": "an",
+      "start": 3.96,
+      "end": 4.08,
+      "startFrame": 119,
+      "endFrame": 122
+    },
+    {
+      "word": "eight",
+      "start": 4.08,
+      "end": 4.4,
+      "startFrame": 122,
+      "endFrame": 132
+    },
+    {
+      "word": "-tonne",
+      "start": 4.4,
+      "end": 5.22,
+      "startFrame": 132,
+      "endFrame": 157
+    },
+    {
+      "word": "problem.",
+      "start": 5.22,
+      "end": 5.72,
+      "startFrame": 157,
+      "endFrame": 172
+    },
+    {
+      "word": "Their",
+      "start": 6.64,
+      "end": 6.9,
+      "startFrame": 199,
+      "endFrame": 207
+    },
+    {
+      "word": "solution?",
+      "start": 6.9,
+      "end": 7.18,
+      "startFrame": 207,
+      "endFrame": 215
+    },
+    {
+      "word": "Half",
+      "start": 8.42,
+      "end": 8.52,
+      "startFrame": 253,
+      "endFrame": 256
+    },
+    {
+      "word": "a",
+      "start": 8.52,
+      "end": 8.7,
+      "startFrame": 256,
+      "endFrame": 261
+    },
+    {
+      "word": "tonne",
+      "start": 8.7,
+      "end": 9.2,
+      "startFrame": 261,
+      "endFrame": 276
+    },
+    {
+      "word": "of",
+      "start": 9.2,
+      "end": 9.64,
+      "startFrame": 276,
+      "endFrame": 289
+    },
+    {
+      "word": "dynamite.",
+      "start": 9.64,
+      "end": 10.3,
+      "startFrame": 289,
+      "endFrame": 309
+    },
+    {
+      "word": "Florence,",
+      "start": 11.36,
+      "end": 12.0,
+      "startFrame": 341,
+      "endFrame": 360
+    },
+    {
+      "word": "Oregon,",
+      "start": 12.18,
+      "end": 12.6,
+      "startFrame": 365,
+      "endFrame": 378
+    },
+    {
+      "word": "a",
+      "start": 13.22,
+      "end": 13.32,
+      "startFrame": 397,
+      "endFrame": 400
+    },
+    {
+      "word": "45",
+      "start": 13.32,
+      "end": 13.58,
+      "startFrame": 400,
+      "endFrame": 407
+    },
+    {
+      "word": "-foot",
+      "start": 13.58,
+      "end": 14.14,
+      "startFrame": 407,
+      "endFrame": 424
+    },
+    {
+      "word": "dead",
+      "start": 14.14,
+      "end": 14.4,
+      "startFrame": 424,
+      "endFrame": 432
+    },
+    {
+      "word": "whale",
+      "start": 14.4,
+      "end": 14.76,
+      "startFrame": 432,
+      "endFrame": 443
+    },
+    {
+      "word": "washed",
+      "start": 14.76,
+      "end": 15.28,
+      "startFrame": 443,
+      "endFrame": 458
+    },
+    {
+      "word": "up",
+      "start": 15.28,
+      "end": 15.64,
+      "startFrame": 458,
+      "endFrame": 469
+    },
+    {
+      "word": "on",
+      "start": 15.64,
+      "end": 15.76,
+      "startFrame": 469,
+      "endFrame": 473
+    },
+    {
+      "word": "the",
+      "start": 15.76,
+      "end": 15.86,
+      "startFrame": 473,
+      "endFrame": 476
+    },
+    {
+      "word": "sand.",
+      "start": 15.86,
+      "end": 16.18,
+      "startFrame": 476,
+      "endFrame": 485
+    },
+    {
+      "word": "The",
+      "start": 17.08,
+      "end": 17.16,
+      "startFrame": 512,
+      "endFrame": 515
+    },
+    {
+      "word": "smell",
+      "start": 17.16,
+      "end": 17.4,
+      "startFrame": 515,
+      "endFrame": 522
+    },
+    {
+      "word": "got",
+      "start": 17.4,
+      "end": 17.78,
+      "startFrame": 522,
+      "endFrame": 533
+    },
+    {
+      "word": "so",
+      "start": 17.78,
+      "end": 18.04,
+      "startFrame": 533,
+      "endFrame": 541
+    },
+    {
+      "word": "cooked",
+      "start": 18.04,
+      "end": 18.38,
+      "startFrame": 541,
+      "endFrame": 551
+    },
+    {
+      "word": "the",
+      "start": 18.38,
+      "end": 18.8,
+      "startFrame": 551,
+      "endFrame": 564
+    },
+    {
+      "word": "whole",
+      "start": 18.8,
+      "end": 18.92,
+      "startFrame": 564,
+      "endFrame": 568
+    },
+    {
+      "word": "town",
+      "start": 18.92,
+      "end": 19.48,
+      "startFrame": 568,
+      "endFrame": 584
+    },
+    {
+      "word": "was",
+      "start": 19.48,
+      "end": 19.78,
+      "startFrame": 584,
+      "endFrame": 593
+    },
+    {
+      "word": "gagging.",
+      "start": 19.78,
+      "end": 20.22,
+      "startFrame": 593,
+      "endFrame": 607
+    },
+    {
+      "word": "Nobody",
+      "start": 20.98,
+      "end": 21.24,
+      "startFrame": 629,
+      "endFrame": 637
+    },
+    {
+      "word": "wanted",
+      "start": 21.24,
+      "end": 21.54,
+      "startFrame": 637,
+      "endFrame": 646
+    },
+    {
+      "word": "to",
+      "start": 21.54,
+      "end": 21.72,
+      "startFrame": 646,
+      "endFrame": 652
+    },
+    {
+      "word": "bury",
+      "start": 21.72,
+      "end": 21.98,
+      "startFrame": 652,
+      "endFrame": 659
+    },
+    {
+      "word": "it.",
+      "start": 21.98,
+      "end": 22.18,
+      "startFrame": 659,
+      "endFrame": 665
+    },
+    {
+      "word": "Nobody",
+      "start": 22.74,
+      "end": 22.82,
+      "startFrame": 682,
+      "endFrame": 685
+    },
+    {
+      "word": "wanted",
+      "start": 22.82,
+      "end": 23.18,
+      "startFrame": 685,
+      "endFrame": 695
+    },
+    {
+      "word": "to",
+      "start": 23.18,
+      "end": 23.38,
+      "startFrame": 695,
+      "endFrame": 701
+    },
+    {
+      "word": "chop",
+      "start": 23.38,
+      "end": 23.62,
+      "startFrame": 701,
+      "endFrame": 709
+    },
+    {
+      "word": "it.",
+      "start": 23.62,
+      "end": 23.84,
+      "startFrame": 709,
+      "endFrame": 715
+    },
+    {
+      "word": "So,",
+      "start": 23.84,
+      "end": 24.68,
+      "startFrame": 715,
+      "endFrame": 740
+    },
+    {
+      "word": "highway",
+      "start": 24.8,
+      "end": 24.92,
+      "startFrame": 744,
+      "endFrame": 748
+    },
+    {
+      "word": "engineer",
+      "start": 24.92,
+      "end": 25.5,
+      "startFrame": 748,
+      "endFrame": 765
+    },
+    {
+      "word": "George",
+      "start": 25.5,
+      "end": 25.98,
+      "startFrame": 765,
+      "endFrame": 779
+    },
+    {
+      "word": "Thornton",
+      "start": 25.98,
+      "end": 26.48,
+      "startFrame": 779,
+      "endFrame": 794
+    },
+    {
+      "word": "pulled",
+      "start": 26.48,
+      "end": 27.06,
+      "startFrame": 794,
+      "endFrame": 812
+    },
+    {
+      "word": "up",
+      "start": 27.06,
+      "end": 27.3,
+      "startFrame": 812,
+      "endFrame": 819
+    },
+    {
+      "word": "with",
+      "start": 27.3,
+      "end": 27.7,
+      "startFrame": 819,
+      "endFrame": 831
+    },
+    {
+      "word": "pure",
+      "start": 27.7,
+      "end": 28.04,
+      "startFrame": 831,
+      "endFrame": 841
+    },
+    {
+      "word": "deluloo",
+      "start": 28.04,
+      "end": 29.02,
+      "startFrame": 841,
+      "endFrame": 871
+    },
+    {
+      "word": "confidence.",
+      "start": 29.02,
+      "end": 29.26,
+      "startFrame": 871,
+      "endFrame": 878
+    },
+    {
+      "word": "Twenty",
+      "start": 30.28,
+      "end": 30.68,
+      "startFrame": 908,
+      "endFrame": 920
+    },
+    {
+      "word": "crates",
+      "start": 30.68,
+      "end": 31.26,
+      "startFrame": 920,
+      "endFrame": 938
+    },
+    {
+      "word": "of",
+      "start": 31.26,
+      "end": 31.64,
+      "startFrame": 938,
+      "endFrame": 949
+    },
+    {
+      "word": "dynamite",
+      "start": 31.64,
+      "end": 32.26,
+      "startFrame": 949,
+      "endFrame": 968
+    },
+    {
+      "word": "stacked",
+      "start": 32.26,
+      "end": 32.8,
+      "startFrame": 968,
+      "endFrame": 984
+    },
+    {
+      "word": "right",
+      "start": 32.8,
+      "end": 33.44,
+      "startFrame": 984,
+      "endFrame": 1003
+    },
+    {
+      "word": "under",
+      "start": 33.44,
+      "end": 33.82,
+      "startFrame": 1003,
+      "endFrame": 1015
+    },
+    {
+      "word": "the",
+      "start": 33.82,
+      "end": 33.9,
+      "startFrame": 1015,
+      "endFrame": 1017
+    },
+    {
+      "word": "whale.",
+      "start": 33.9,
+      "end": 34.16,
+      "startFrame": 1017,
+      "endFrame": 1025
+    },
+    {
+      "word": "An",
+      "start": 35.2,
+      "end": 35.24,
+      "startFrame": 1056,
+      "endFrame": 1057
+    },
+    {
+      "word": "explosives",
+      "start": 35.24,
+      "end": 35.56,
+      "startFrame": 1057,
+      "endFrame": 1067
+    },
+    {
+      "word": "veteran",
+      "start": 35.56,
+      "end": 36.12,
+      "startFrame": 1067,
+      "endFrame": 1084
+    },
+    {
+      "word": "warned",
+      "start": 36.12,
+      "end": 36.52,
+      "startFrame": 1084,
+      "endFrame": 1096
+    },
+    {
+      "word": "him",
+      "start": 36.52,
+      "end": 36.76,
+      "startFrame": 1096,
+      "endFrame": 1103
+    },
+    {
+      "word": "way",
+      "start": 36.76,
+      "end": 37.42,
+      "startFrame": 1103,
+      "endFrame": 1123
+    },
+    {
+      "word": "too",
+      "start": 37.42,
+      "end": 37.74,
+      "startFrame": 1123,
+      "endFrame": 1132
+    },
+    {
+      "word": "much.",
+      "start": 37.74,
+      "end": 37.98,
+      "startFrame": 1132,
+      "endFrame": 1139
+    },
+    {
+      "word": "Thornton",
+      "start": 38.96,
+      "end": 39.38,
+      "startFrame": 1169,
+      "endFrame": 1181
+    },
+    {
+      "word": "brushed",
+      "start": 39.38,
+      "end": 39.76,
+      "startFrame": 1181,
+      "endFrame": 1193
+    },
+    {
+      "word": "him",
+      "start": 39.76,
+      "end": 40.08,
+      "startFrame": 1193,
+      "endFrame": 1202
+    },
+    {
+      "word": "off,",
+      "start": 40.08,
+      "end": 40.24,
+      "startFrame": 1202,
+      "endFrame": 1207
+    },
+    {
+      "word": "backed",
+      "start": 40.74,
+      "end": 40.9,
+      "startFrame": 1222,
+      "endFrame": 1227
+    },
+    {
+      "word": "everyone",
+      "start": 40.9,
+      "end": 41.22,
+      "startFrame": 1227,
+      "endFrame": 1237
+    },
+    {
+      "word": "up,",
+      "start": 41.22,
+      "end": 41.5,
+      "startFrame": 1237,
+      "endFrame": 1245
+    },
+    {
+      "word": "and",
+      "start": 41.94,
+      "end": 42.18,
+      "startFrame": 1258,
+      "endFrame": 1265
+    },
+    {
+      "word": "slammed",
+      "start": 42.18,
+      "end": 42.58,
+      "startFrame": 1265,
+      "endFrame": 1277
+    },
+    {
+      "word": "the",
+      "start": 42.58,
+      "end": 42.86,
+      "startFrame": 1277,
+      "endFrame": 1286
+    },
+    {
+      "word": "plunger.",
+      "start": 42.86,
+      "end": 43.3,
+      "startFrame": 1286,
+      "endFrame": 1299
+    },
+    {
+      "word": "For",
+      "start": 44.02,
+      "end": 44.5,
+      "startFrame": 1321,
+      "endFrame": 1335
+    },
+    {
+      "word": "two",
+      "start": 44.5,
+      "end": 44.64,
+      "startFrame": 1335,
+      "endFrame": 1339
+    },
+    {
+      "word": "seconds,",
+      "start": 44.64,
+      "end": 45.0,
+      "startFrame": 1339,
+      "endFrame": 1350
+    },
+    {
+      "word": "everyone",
+      "start": 45.68,
+      "end": 46.08,
+      "startFrame": 1370,
+      "endFrame": 1382
+    },
+    {
+      "word": "cheered.",
+      "start": 46.08,
+      "end": 46.34,
+      "startFrame": 1382,
+      "endFrame": 1390
+    },
+    {
+      "word": "Then",
+      "start": 47.42,
+      "end": 47.56,
+      "startFrame": 1423,
+      "endFrame": 1427
+    },
+    {
+      "word": "they",
+      "start": 47.56,
+      "end": 47.7,
+      "startFrame": 1427,
+      "endFrame": 1431
+    },
+    {
+      "word": "looked",
+      "start": 47.7,
+      "end": 47.84,
+      "startFrame": 1431,
+      "endFrame": 1435
+    },
+    {
+      "word": "up.",
+      "start": 47.84,
+      "end": 48.06,
+      "startFrame": 1435,
+      "endFrame": 1442
+    },
+    {
+      "word": "up.",
+      "start": 48.06,
+      "end": 48.2,
+      "startFrame": 1442,
+      "endFrame": 1446
+    },
+    {
+      "word": "Giant",
+      "start": 48.76,
+      "end": 49.3,
+      "startFrame": 1463,
+      "endFrame": 1479
+    },
+    {
+      "word": "slabs",
+      "start": 49.3,
+      "end": 50.04,
+      "startFrame": 1479,
+      "endFrame": 1501
+    },
+    {
+      "word": "of",
+      "start": 50.04,
+      "end": 50.22,
+      "startFrame": 1501,
+      "endFrame": 1507
+    },
+    {
+      "word": "blubber",
+      "start": 50.22,
+      "end": 50.84,
+      "startFrame": 1507,
+      "endFrame": 1525
+    },
+    {
+      "word": "rained",
+      "start": 50.84,
+      "end": 51.38,
+      "startFrame": 1525,
+      "endFrame": 1541
+    },
+    {
+      "word": "straight",
+      "start": 51.38,
+      "end": 52.02,
+      "startFrame": 1541,
+      "endFrame": 1561
+    },
+    {
+      "word": "out",
+      "start": 52.02,
+      "end": 52.28,
+      "startFrame": 1561,
+      "endFrame": 1568
+    },
+    {
+      "word": "of",
+      "start": 52.28,
+      "end": 52.38,
+      "startFrame": 1568,
+      "endFrame": 1571
+    },
+    {
+      "word": "the",
+      "start": 52.38,
+      "end": 52.46,
+      "startFrame": 1571,
+      "endFrame": 1574
+    },
+    {
+      "word": "sky,",
+      "start": 52.46,
+      "end": 52.72,
+      "startFrame": 1574,
+      "endFrame": 1582
+    },
+    {
+      "word": "people",
+      "start": 53.42,
+      "end": 53.58,
+      "startFrame": 1603,
+      "endFrame": 1607
+    },
+    {
+      "word": "sprinted",
+      "start": 53.58,
+      "end": 54.16,
+      "startFrame": 1607,
+      "endFrame": 1625
+    },
+    {
+      "word": "for",
+      "start": 54.16,
+      "end": 54.32,
+      "startFrame": 1625,
+      "endFrame": 1630
+    },
+    {
+      "word": "their",
+      "start": 54.32,
+      "end": 54.44,
+      "startFrame": 1630,
+      "endFrame": 1633
+    },
+    {
+      "word": "lives.",
+      "start": 54.44,
+      "end": 54.7,
+      "startFrame": 1633,
+      "endFrame": 1641
+    },
+    {
+      "word": "Somehow",
+      "start": 55.56,
+      "end": 55.84,
+      "startFrame": 1667,
+      "endFrame": 1675
+    },
+    {
+      "word": "nobody",
+      "start": 55.84,
+      "end": 56.56,
+      "startFrame": 1675,
+      "endFrame": 1697
+    },
+    {
+      "word": "got",
+      "start": 56.56,
+      "end": 56.74,
+      "startFrame": 1697,
+      "endFrame": 1702
+    },
+    {
+      "word": "hit,",
+      "start": 56.74,
+      "end": 57.0,
+      "startFrame": 1702,
+      "endFrame": 1710
+    },
+    {
+      "word": "except",
+      "start": 57.6,
+      "end": 57.76,
+      "startFrame": 1728,
+      "endFrame": 1733
+    },
+    {
+      "word": "one",
+      "start": 57.76,
+      "end": 58.12,
+      "startFrame": 1733,
+      "endFrame": 1744
+    },
+    {
+      "word": "massive",
+      "start": 58.12,
+      "end": 58.76,
+      "startFrame": 1744,
+      "endFrame": 1763
+    },
+    {
+      "word": "chunk",
+      "start": 58.76,
+      "end": 59.14,
+      "startFrame": 1763,
+      "endFrame": 1774
+    },
+    {
+      "word": "dropped",
+      "start": 59.14,
+      "end": 59.64,
+      "startFrame": 1774,
+      "endFrame": 1789
+    },
+    {
+      "word": "from",
+      "start": 59.64,
+      "end": 60.22,
+      "startFrame": 1789,
+      "endFrame": 1807
+    },
+    {
+      "word": "orbit",
+      "start": 60.22,
+      "end": 60.56,
+      "startFrame": 1807,
+      "endFrame": 1817
+    },
+    {
+      "word": "and",
+      "start": 60.56,
+      "end": 61.32,
+      "startFrame": 1817,
+      "endFrame": 1840
+    },
+    {
+      "word": "pancaked",
+      "start": 61.32,
+      "end": 61.98,
+      "startFrame": 1840,
+      "endFrame": 1859
+    },
+    {
+      "word": "a",
+      "start": 61.98,
+      "end": 62.26,
+      "startFrame": 1859,
+      "endFrame": 1868
+    },
+    {
+      "word": "brand",
+      "start": 62.26,
+      "end": 62.6,
+      "startFrame": 1868,
+      "endFrame": 1878
+    },
+    {
+      "word": "new",
+      "start": 62.6,
+      "end": 62.92,
+      "startFrame": 1878,
+      "endFrame": 1888
+    },
+    {
+      "word": "car,",
+      "start": 62.92,
+      "end": 63.26,
+      "startFrame": 1888,
+      "endFrame": 1898
+    },
+    {
+      "word": "owned",
+      "start": 64.08,
+      "end": 64.3,
+      "startFrame": 1922,
+      "endFrame": 1929
+    },
+    {
+      "word": "by",
+      "start": 64.3,
+      "end": 64.88,
+      "startFrame": 1929,
+      "endFrame": 1946
+    },
+    {
+      "word": "the",
+      "start": 64.88,
+      "end": 65.0,
+      "startFrame": 1946,
+      "endFrame": 1950
+    },
+    {
+      "word": "exact",
+      "start": 65.0,
+      "end": 65.16,
+      "startFrame": 1950,
+      "endFrame": 1955
+    },
+    {
+      "word": "guy",
+      "start": 65.16,
+      "end": 65.72,
+      "startFrame": 1955,
+      "endFrame": 1972
+    },
+    {
+      "word": "who",
+      "start": 65.72,
+      "end": 65.96,
+      "startFrame": 1972,
+      "endFrame": 1979
+    },
+    {
+      "word": "warned",
+      "start": 65.96,
+      "end": 66.26,
+      "startFrame": 1979,
+      "endFrame": 1988
+    },
+    {
+      "word": "them.",
+      "start": 66.26,
+      "end": 66.46,
+      "startFrame": 1988,
+      "endFrame": 1994
+    },
+    {
+      "word": "Bro",
+      "start": 67.14,
+      "end": 67.2,
+      "startFrame": 2014,
+      "endFrame": 2016
+    },
+    {
+      "word": "literally",
+      "start": 67.2,
+      "end": 67.54,
+      "startFrame": 2016,
+      "endFrame": 2026
+    },
+    {
+      "word": "bought",
+      "start": 67.54,
+      "end": 67.98,
+      "startFrame": 2026,
+      "endFrame": 2039
+    },
+    {
+      "word": "it",
+      "start": 67.98,
+      "end": 68.12,
+      "startFrame": 2039,
+      "endFrame": 2044
+    },
+    {
+      "word": "at",
+      "start": 68.12,
+      "end": 68.26,
+      "startFrame": 2044,
+      "endFrame": 2048
+    },
+    {
+      "word": "a",
+      "start": 68.26,
+      "end": 68.36,
+      "startFrame": 2048,
+      "endFrame": 2051
+    },
+    {
+      "word": "whale",
+      "start": 68.36,
+      "end": 68.82,
+      "startFrame": 2051,
+      "endFrame": 2065
+    },
+    {
+      "word": "of",
+      "start": 68.82,
+      "end": 69.1,
+      "startFrame": 2065,
+      "endFrame": 2073
+    },
+    {
+      "word": "a",
+      "start": 69.1,
+      "end": 69.18,
+      "startFrame": 2073,
+      "endFrame": 2075
+    },
+    {
+      "word": "deal",
+      "start": 69.18,
+      "end": 69.36,
+      "startFrame": 2075,
+      "endFrame": 2081
+    },
+    {
+      "word": "sale.",
+      "start": 69.36,
+      "end": 69.84,
+      "startFrame": 2081,
+      "endFrame": 2095
+    },
+    {
+      "word": "Even",
+      "start": 70.7,
+      "end": 71.34,
+      "startFrame": 2121,
+      "endFrame": 2140
+    },
+    {
+      "word": "the",
+      "start": 71.34,
+      "end": 71.46,
+      "startFrame": 2140,
+      "endFrame": 2144
+    },
+    {
+      "word": "seagulls",
+      "start": 71.46,
+      "end": 72.0,
+      "startFrame": 2144,
+      "endFrame": 2160
+    },
+    {
+      "word": "rage",
+      "start": 72.0,
+      "end": 72.36,
+      "startFrame": 2160,
+      "endFrame": 2171
+    },
+    {
+      "word": "quit,",
+      "start": 72.36,
+      "end": 72.72,
+      "startFrame": 2171,
+      "endFrame": 2182
+    },
+    {
+      "word": "half",
+      "start": 73.38,
+      "end": 73.52,
+      "startFrame": 2201,
+      "endFrame": 2206
+    },
+    {
+      "word": "the",
+      "start": 73.52,
+      "end": 73.72,
+      "startFrame": 2206,
+      "endFrame": 2212
+    },
+    {
+      "word": "whale",
+      "start": 73.72,
+      "end": 73.9,
+      "startFrame": 2212,
+      "endFrame": 2217
+    },
+    {
+      "word": "never",
+      "start": 73.9,
+      "end": 74.28,
+      "startFrame": 2217,
+      "endFrame": 2228
+    },
+    {
+      "word": "even",
+      "start": 74.28,
+      "end": 74.52,
+      "startFrame": 2228,
+      "endFrame": 2236
+    },
+    {
+      "word": "moved,",
+      "start": 74.52,
+      "end": 74.84,
+      "startFrame": 2236,
+      "endFrame": 2245
+    },
+    {
+      "word": "so",
+      "start": 75.36,
+      "end": 75.6,
+      "startFrame": 2261,
+      "endFrame": 2268
+    },
+    {
+      "word": "they",
+      "start": 75.6,
+      "end": 75.72,
+      "startFrame": 2268,
+      "endFrame": 2272
+    },
+    {
+      "word": "still",
+      "start": 75.72,
+      "end": 76.04,
+      "startFrame": 2272,
+      "endFrame": 2281
+    },
+    {
+      "word": "had",
+      "start": 76.04,
+      "end": 76.26,
+      "startFrame": 2281,
+      "endFrame": 2288
+    },
+    {
+      "word": "to",
+      "start": 76.26,
+      "end": 76.38,
+      "startFrame": 2288,
+      "endFrame": 2291
+    },
+    {
+      "word": "bury",
+      "start": 76.38,
+      "end": 76.62,
+      "startFrame": 2291,
+      "endFrame": 2299
+    },
+    {
+      "word": "it",
+      "start": 76.62,
+      "end": 76.82,
+      "startFrame": 2299,
+      "endFrame": 2305
+    },
+    {
+      "word": "with",
+      "start": 76.82,
+      "end": 76.94,
+      "startFrame": 2305,
+      "endFrame": 2308
+    },
+    {
+      "word": "shovels.",
+      "start": 76.94,
+      "end": 77.54,
+      "startFrame": 2308,
+      "endFrame": 2326
+    },
+    {
+      "word": "And",
+      "start": 78.28,
+      "end": 78.36,
+      "startFrame": 2348,
+      "endFrame": 2351
+    },
+    {
+      "word": "fifty",
+      "start": 78.36,
+      "end": 78.54,
+      "startFrame": 2351,
+      "endFrame": 2356
+    },
+    {
+      "word": "years",
+      "start": 78.54,
+      "end": 78.82,
+      "startFrame": 2356,
+      "endFrame": 2365
+    },
+    {
+      "word": "later,",
+      "start": 78.82,
+      "end": 79.1,
+      "startFrame": 2365,
+      "endFrame": 2373
+    },
+    {
+      "word": "the",
+      "start": 79.86,
+      "end": 79.92,
+      "startFrame": 2396,
+      "endFrame": 2398
+    },
+    {
+      "word": "town",
+      "start": 79.92,
+      "end": 80.2,
+      "startFrame": 2398,
+      "endFrame": 2406
+    },
+    {
+      "word": "named",
+      "start": 80.2,
+      "end": 80.5,
+      "startFrame": 2406,
+      "endFrame": 2415
+    },
+    {
+      "word": "it",
+      "start": 80.5,
+      "end": 80.68,
+      "startFrame": 2415,
+      "endFrame": 2420
+    },
+    {
+      "word": "Exploding",
+      "start": 80.68,
+      "end": 81.58,
+      "startFrame": 2420,
+      "endFrame": 2447
+    },
+    {
+      "word": "Whale",
+      "start": 81.58,
+      "end": 81.82,
+      "startFrame": 2447,
+      "endFrame": 2455
+    },
+    {
+      "word": "Memorial",
+      "start": 81.82,
+      "end": 82.26,
+      "startFrame": 2455,
+      "endFrame": 2468
+    },
+    {
+      "word": "Park.",
+      "start": 82.26,
+      "end": 82.84,
+      "startFrame": 2468,
+      "endFrame": 2485
+    }
+  ]
+}

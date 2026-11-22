@@ -1,0 +1,23 @@
+# Exploding Whale Audio SFX Cue Sheet (30 fps)
+
+- `f0005` (  0.17s): Coastal Pacific ocean surf
+- `f0116` (  3.87s): Sub-bass reveal hit (8-ton problem)
+- `f0198` (  6.60s): Blackout #1 sub-bass drop (Their solution?)
+- `f0244` (  8.13s): Half a ton of dynamite BOOM
+- `f0345` ( 11.50s): Ocean surf establishing
+- `f0558` ( 18.60s): Stink whoosh riser
+- `f0816` ( 27.20s): Delulu confidence comedic boom
+- `f0902` ( 30.07s): 20 wooden TNT crates thudding
+- `f1245` ( 41.50s): Cinematic riser into plunger slam
+- `f1287` ( 42.90s): TNT plunger SLAM!
+- `f1302` ( 43.40s): MASSIVE DYNAMITE EXPLOSION ROAR!
+- `f1356` ( 45.20s): Beach crowd cheering
+- `f1412` ( 47.07s): Blackout #2 tension drop + riser (Then they looked up)
+- `f1460` ( 48.67s): Blubber rain sub-hit
+- `f1490` ( 49.67s): Wet blubber splats raining across beach
+- `f1795` ( 59.83s): Orbital falling chunk whistle drop!
+- `f1840` ( 61.33s): HUGE OLDSMOBILE PANCAKE CAR CRASH!
+- `f1916` ( 63.87s): Deadpan silence sub-thud (owned by the guy)
+- `f2122` ( 70.73s): Grumpy seagulls rage-quitting squawks!
+- `f2268` ( 75.60s): Grumpy crew digging sand with shovels
+- `f2344` ( 78.13s): Golden sunset park warm chime
