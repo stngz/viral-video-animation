@@ -1,0 +1,30 @@
+# Audio SFX Cue Sheet (30 fps)
+
+- `f0036` (  1.20s): Starting pistol BANG
+- `f0045` (  1.50s): Opening stadium cheer
+- `f0151` (  5.03s): 1904 car horn (Hook)
+- `f0202` (  6.73s): Poison electric boing (Hook)
+- `f0271` (  9.03s): Hook white flash whoosh
+- `f0595` ( 19.83s): Single sad water drip (Well)
+- `f0632` ( 21.07s): Second water drip (Well)
+- `f0668` ( 22.27s): Noisy 1904 official car chugging
+- `f0782` ( 26.07s): Thick red dust cloud blast
+- `f0992` ( 33.07s): Giant scissors SNIP-SNIP!
+- `f1068` ( 35.60s): Rotten orchard apple crunch
+- `f1178` ( 39.27s): Quick zip past rivals
+- `f1265` ( 42.17s): Pack of wild dogs barking!
+- `f1412` ( 47.07s): Lorz joyride car chug
+- `f1474` ( 49.13s): Lorz smug horn HONK-HONK!
+- `f1550` ( 51.67s): Fake finish crowd cheer
+- `f1598` ( 53.27s): Referee WHISTLE BUST!
+- `f1706` ( 56.87s): Hallucinating woozy shimmer
+- `f1904` ( 63.47s): Strychnine rat poison BOING!
+- `f1955` ( 65.17s): Golden-hour stadium cheer roar
+- `f2252` ( 75.07s): Giant stadium clock rapid ticks
+- `f2375` ( 79.17s): Jalopy straining uphill
+- `f2535` ( 84.50s): Radiator cap POP + steam hiss!
+- `f2577` ( 85.90s): Engine SEIZES metal clank!
+- `f2638` ( 87.93s): Committee GAVEL SLAM!
+- `f2720` ( 90.67s): Water station splash & chime
+- `f2842` ( 94.73s): Gold medal DING!
+- `f2867` ( 95.57s): Deadpan collapse THUD + wah-wah!

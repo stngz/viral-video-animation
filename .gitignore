@@ -1,0 +1,23 @@
+# Dependencies & Remotion caches
+node_modules/
+.remotion/
+**/tmp/
+**/out/bundle/
+**/out/stills/
+**/out/sheets/
+**/out/final_check_*.jpg
+
+# Large rendered video & uncompressed audio stems (regenerable from source/scripts)
+*.mp4
+*.mov
+*.wav
+renders/
+emu_war_short/renders/
+emu_war_short/audio/
+audio/*.wav
+
+# Python & OS artifacts
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

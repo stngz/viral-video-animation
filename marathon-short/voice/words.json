@@ -1,0 +1,1964 @@
+{
+  "duration": 98.847,
+  "fps": 30,
+  "totalFrames": 2980,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.08,
+      "text": "In 1904, the Olympic marathon was so disastrous that the guy who finished first wrote a car,"
+    },
+    {
+      "start": 6.7,
+      "end": 8.56,
+      "text": "and the real winner ran on rat poison."
+    },
+    {
+      "start": 9.58,
+      "end": 16.34,
+      "text": "St. Louis wanted the grandest race in history across nearly 25 miles of dusty hills in 90-degree heat."
+    },
+    {
+      "start": 16.8,
+      "end": 21.6,
+      "text": "To test human dehydration, the organizer put almost no water on the entire course."
+    },
+    {
+      "start": 22.32,
+      "end": 29.28,
+      "text": "Worse, officials drove noisy cars right in front of the pack blasting thick clouds of red dust into every runner's lungs."
+    },
+    {
+      "start": 29.84,
+      "end": 35.16,
+      "text": "A Cuban mailman showed up in dress trousers, had his pants snipped into shorts at the starting line,"
+    },
+    {
+      "start": 35.5,
+      "end": 40.04,
+      "text": "eight rotten orchard apples, took a roadside nap, and still placed forth."
+    },
+    {
+      "start": 40.76,
+      "end": 44.42,
+      "text": "One barefoot runner got chased a mile off course by wild dogs."
+    },
+    {
+      "start": 45.16,
+      "end": 50.48,
+      "text": "Meanwhile, American Fred Lors rode 11 miles in a car, waving at exhausted runners,"
+    },
+    {
+      "start": 50.96,
+      "end": 54.0,
+      "text": "then jogged across the finish line, until officials caught him."
+    },
+    {
+      "start": 54.44,
+      "end": 56.08,
+      "text": "That left Thomas Hicks in first."
+    },
+    {
+      "start": 56.08,
+      "end": 61.84,
+      "text": "When he began hallucinating, his trainers refused him water, and instead fed him raw egg whites,"
+    },
+    {
+      "start": 62.16,
+      "end": 64.18,
+      "text": "brandy, and strict nine rat poison."
+    },
+    {
+      "start": 64.84,
+      "end": 69.66,
+      "text": "Two men literally carried him over the finish line while his legs kept pumping in mid-air."
+    },
+    {
+      "start": 70.2,
+      "end": 71.48,
+      "text": "Luckily, nobody died."
+    },
+    {
+      "start": 72.06,
+      "end": 77.62,
+      "text": "Unluckily, over half the runner's quit, and his winning time is still the slowest in Olympic history."
+    },
+    {
+      "start": 78.08,
+      "end": 82.58,
+      "text": "Running in 90-degree heat without water is like flooring a car with an empty radiator."
+    },
+    {
+      "start": 82.58,
+      "end": 86.68,
+      "text": "Your blood thickens, your body overheats, and your engine seizes."
+    },
+    {
+      "start": 87.32,
+      "end": 92.24,
+      "text": "The committee nearly banned the marathon forever, instead making regular water stations mandatory."
+    },
+    {
+      "start": 93.02,
+      "end": 98.24,
+      "text": "As for Thomas Hicks, he took his gold medal, collapsed, and immediately retired from running forever."
+    }
+  ],
+  "words": [
+    {
+      "word": "In",
+      "start": 0.0,
+      "end": 0.16,
+      "startFrame": 0,
+      "endFrame": 5
+    },
+    {
+      "word": "1904,",
+      "start": 0.16,
+      "end": 0.7,
+      "startFrame": 5,
+      "endFrame": 21
+    },
+    {
+      "word": "the",
+      "start": 1.34,
+      "end": 1.42,
+      "startFrame": 40,
+      "endFrame": 43
+    },
+    {
+      "word": "Olympic",
+      "start": 1.42,
+      "end": 1.64,
+      "startFrame": 43,
+      "endFrame": 49
+    },
+    {
+      "word": "marathon",
+      "start": 1.64,
+      "end": 2.0,
+      "startFrame": 49,
+      "endFrame": 60
+    },
+    {
+      "word": "was",
+      "start": 2.0,
+      "end": 2.48,
+      "startFrame": 60,
+      "endFrame": 74
+    },
+    {
+      "word": "so",
+      "start": 2.48,
+      "end": 2.84,
+      "startFrame": 74,
+      "endFrame": 85
+    },
+    {
+      "word": "disastrous",
+      "start": 2.84,
+      "end": 3.48,
+      "startFrame": 85,
+      "endFrame": 104
+    },
+    {
+      "word": "that",
+      "start": 3.48,
+      "end": 4.0,
+      "startFrame": 104,
+      "endFrame": 120
+    },
+    {
+      "word": "the",
+      "start": 4.0,
+      "end": 4.1,
+      "startFrame": 120,
+      "endFrame": 123
+    },
+    {
+      "word": "guy",
+      "start": 4.1,
+      "end": 4.32,
+      "startFrame": 123,
+      "endFrame": 130
+    },
+    {
+      "word": "who",
+      "start": 4.32,
+      "end": 4.46,
+      "startFrame": 130,
+      "endFrame": 134
+    },
+    {
+      "word": "finished",
+      "start": 4.46,
+      "end": 4.7,
+      "startFrame": 134,
+      "endFrame": 141
+    },
+    {
+      "word": "first",
+      "start": 4.7,
+      "end": 5.12,
+      "startFrame": 141,
+      "endFrame": 154
+    },
+    {
+      "word": "wrote",
+      "start": 5.12,
+      "end": 5.54,
+      "startFrame": 154,
+      "endFrame": 166
+    },
+    {
+      "word": "a",
+      "start": 5.54,
+      "end": 5.72,
+      "startFrame": 166,
+      "endFrame": 172
+    },
+    {
+      "word": "car,",
+      "start": 5.72,
+      "end": 6.08,
+      "startFrame": 172,
+      "endFrame": 182
+    },
+    {
+      "word": "and",
+      "start": 6.7,
+      "end": 6.72,
+      "startFrame": 201,
+      "endFrame": 202
+    },
+    {
+      "word": "the",
+      "start": 6.72,
+      "end": 6.82,
+      "startFrame": 202,
+      "endFrame": 205
+    },
+    {
+      "word": "real",
+      "start": 6.82,
+      "end": 7.02,
+      "startFrame": 205,
+      "endFrame": 211
+    },
+    {
+      "word": "winner",
+      "start": 7.02,
+      "end": 7.36,
+      "startFrame": 211,
+      "endFrame": 221
+    },
+    {
+      "word": "ran",
+      "start": 7.36,
+      "end": 7.8,
+      "startFrame": 221,
+      "endFrame": 234
+    },
+    {
+      "word": "on",
+      "start": 7.8,
+      "end": 7.96,
+      "startFrame": 234,
+      "endFrame": 239
+    },
+    {
+      "word": "rat",
+      "start": 7.96,
+      "end": 8.24,
+      "startFrame": 239,
+      "endFrame": 247
+    },
+    {
+      "word": "poison.",
+      "start": 8.24,
+      "end": 8.56,
+      "startFrame": 247,
+      "endFrame": 257
+    },
+    {
+      "word": "St.",
+      "start": 9.58,
+      "end": 9.74,
+      "startFrame": 287,
+      "endFrame": 292
+    },
+    {
+      "word": "Louis",
+      "start": 9.92,
+      "end": 10.06,
+      "startFrame": 298,
+      "endFrame": 302
+    },
+    {
+      "word": "wanted",
+      "start": 10.06,
+      "end": 10.46,
+      "startFrame": 302,
+      "endFrame": 314
+    },
+    {
+      "word": "the",
+      "start": 10.46,
+      "end": 10.62,
+      "startFrame": 314,
+      "endFrame": 319
+    },
+    {
+      "word": "grandest",
+      "start": 10.62,
+      "end": 11.16,
+      "startFrame": 319,
+      "endFrame": 335
+    },
+    {
+      "word": "race",
+      "start": 11.16,
+      "end": 11.42,
+      "startFrame": 335,
+      "endFrame": 343
+    },
+    {
+      "word": "in",
+      "start": 11.42,
+      "end": 11.6,
+      "startFrame": 343,
+      "endFrame": 348
+    },
+    {
+      "word": "history",
+      "start": 11.6,
+      "end": 11.98,
+      "startFrame": 348,
+      "endFrame": 359
+    },
+    {
+      "word": "across",
+      "start": 11.98,
+      "end": 12.32,
+      "startFrame": 359,
+      "endFrame": 370
+    },
+    {
+      "word": "nearly",
+      "start": 12.32,
+      "end": 12.72,
+      "startFrame": 370,
+      "endFrame": 382
+    },
+    {
+      "word": "25",
+      "start": 12.72,
+      "end": 13.54,
+      "startFrame": 382,
+      "endFrame": 406
+    },
+    {
+      "word": "miles",
+      "start": 13.54,
+      "end": 13.86,
+      "startFrame": 406,
+      "endFrame": 416
+    },
+    {
+      "word": "of",
+      "start": 13.86,
+      "end": 14.14,
+      "startFrame": 416,
+      "endFrame": 424
+    },
+    {
+      "word": "dusty",
+      "start": 14.14,
+      "end": 14.34,
+      "startFrame": 424,
+      "endFrame": 430
+    },
+    {
+      "word": "hills",
+      "start": 14.34,
+      "end": 14.82,
+      "startFrame": 430,
+      "endFrame": 445
+    },
+    {
+      "word": "in",
+      "start": 14.82,
+      "end": 15.12,
+      "startFrame": 445,
+      "endFrame": 454
+    },
+    {
+      "word": "90",
+      "start": 15.12,
+      "end": 15.48,
+      "startFrame": 454,
+      "endFrame": 464
+    },
+    {
+      "word": "-degree",
+      "start": 15.48,
+      "end": 15.92,
+      "startFrame": 464,
+      "endFrame": 478
+    },
+    {
+      "word": "heat.",
+      "start": 15.92,
+      "end": 16.34,
+      "startFrame": 478,
+      "endFrame": 490
+    },
+    {
+      "word": "To",
+      "start": 16.8,
+      "end": 16.88,
+      "startFrame": 504,
+      "endFrame": 506
+    },
+    {
+      "word": "test",
+      "start": 16.88,
+      "end": 17.08,
+      "startFrame": 506,
+      "endFrame": 512
+    },
+    {
+      "word": "human",
+      "start": 17.08,
+      "end": 17.38,
+      "startFrame": 512,
+      "endFrame": 521
+    },
+    {
+      "word": "dehydration,",
+      "start": 17.38,
+      "end": 17.9,
+      "startFrame": 521,
+      "endFrame": 537
+    },
+    {
+      "word": "the",
+      "start": 18.5,
+      "end": 18.52,
+      "startFrame": 555,
+      "endFrame": 556
+    },
+    {
+      "word": "organizer",
+      "start": 18.52,
+      "end": 18.8,
+      "startFrame": 556,
+      "endFrame": 564
+    },
+    {
+      "word": "put",
+      "start": 18.8,
+      "end": 19.2,
+      "startFrame": 564,
+      "endFrame": 576
+    },
+    {
+      "word": "almost",
+      "start": 19.2,
+      "end": 19.5,
+      "startFrame": 576,
+      "endFrame": 585
+    },
+    {
+      "word": "no",
+      "start": 19.5,
+      "end": 19.94,
+      "startFrame": 585,
+      "endFrame": 598
+    },
+    {
+      "word": "water",
+      "start": 19.94,
+      "end": 20.44,
+      "startFrame": 598,
+      "endFrame": 613
+    },
+    {
+      "word": "on",
+      "start": 20.44,
+      "end": 20.7,
+      "startFrame": 613,
+      "endFrame": 621
+    },
+    {
+      "word": "the",
+      "start": 20.7,
+      "end": 20.8,
+      "startFrame": 621,
+      "endFrame": 624
+    },
+    {
+      "word": "entire",
+      "start": 20.8,
+      "end": 20.94,
+      "startFrame": 624,
+      "endFrame": 628
+    },
+    {
+      "word": "course.",
+      "start": 20.94,
+      "end": 21.6,
+      "startFrame": 628,
+      "endFrame": 648
+    },
+    {
+      "word": "Worse,",
+      "start": 22.32,
+      "end": 22.5,
+      "startFrame": 670,
+      "endFrame": 675
+    },
+    {
+      "word": "officials",
+      "start": 22.88,
+      "end": 23.18,
+      "startFrame": 686,
+      "endFrame": 695
+    },
+    {
+      "word": "drove",
+      "start": 23.18,
+      "end": 23.56,
+      "startFrame": 695,
+      "endFrame": 707
+    },
+    {
+      "word": "noisy",
+      "start": 23.56,
+      "end": 23.82,
+      "startFrame": 707,
+      "endFrame": 715
+    },
+    {
+      "word": "cars",
+      "start": 23.82,
+      "end": 24.38,
+      "startFrame": 715,
+      "endFrame": 731
+    },
+    {
+      "word": "right",
+      "start": 24.38,
+      "end": 24.78,
+      "startFrame": 731,
+      "endFrame": 743
+    },
+    {
+      "word": "in",
+      "start": 24.78,
+      "end": 24.98,
+      "startFrame": 743,
+      "endFrame": 749
+    },
+    {
+      "word": "front",
+      "start": 24.98,
+      "end": 25.14,
+      "startFrame": 749,
+      "endFrame": 754
+    },
+    {
+      "word": "of",
+      "start": 25.14,
+      "end": 25.24,
+      "startFrame": 754,
+      "endFrame": 757
+    },
+    {
+      "word": "the",
+      "start": 25.24,
+      "end": 25.36,
+      "startFrame": 757,
+      "endFrame": 761
+    },
+    {
+      "word": "pack",
+      "start": 25.36,
+      "end": 25.58,
+      "startFrame": 761,
+      "endFrame": 767
+    },
+    {
+      "word": "blasting",
+      "start": 25.58,
+      "end": 26.14,
+      "startFrame": 767,
+      "endFrame": 784
+    },
+    {
+      "word": "thick",
+      "start": 26.14,
+      "end": 26.6,
+      "startFrame": 784,
+      "endFrame": 798
+    },
+    {
+      "word": "clouds",
+      "start": 26.6,
+      "end": 27.0,
+      "startFrame": 798,
+      "endFrame": 810
+    },
+    {
+      "word": "of",
+      "start": 27.0,
+      "end": 27.26,
+      "startFrame": 810,
+      "endFrame": 818
+    },
+    {
+      "word": "red",
+      "start": 27.26,
+      "end": 27.48,
+      "startFrame": 818,
+      "endFrame": 824
+    },
+    {
+      "word": "dust",
+      "start": 27.48,
+      "end": 27.82,
+      "startFrame": 824,
+      "endFrame": 835
+    },
+    {
+      "word": "into",
+      "start": 27.82,
+      "end": 28.14,
+      "startFrame": 835,
+      "endFrame": 844
+    },
+    {
+      "word": "every",
+      "start": 28.14,
+      "end": 28.56,
+      "startFrame": 844,
+      "endFrame": 857
+    },
+    {
+      "word": "runner's",
+      "start": 28.56,
+      "end": 29.02,
+      "startFrame": 857,
+      "endFrame": 871
+    },
+    {
+      "word": "lungs.",
+      "start": 29.02,
+      "end": 29.28,
+      "startFrame": 871,
+      "endFrame": 878
+    },
+    {
+      "word": "A",
+      "start": 29.61,
+      "end": 29.9,
+      "startFrame": 888,
+      "endFrame": 897
+    },
+    {
+      "word": "Cuban",
+      "start": 29.9,
+      "end": 30.3,
+      "startFrame": 897,
+      "endFrame": 909
+    },
+    {
+      "word": "mailman",
+      "start": 30.3,
+      "end": 30.9,
+      "startFrame": 909,
+      "endFrame": 927
+    },
+    {
+      "word": "showed",
+      "start": 30.9,
+      "end": 31.16,
+      "startFrame": 927,
+      "endFrame": 935
+    },
+    {
+      "word": "up",
+      "start": 31.16,
+      "end": 31.32,
+      "startFrame": 935,
+      "endFrame": 940
+    },
+    {
+      "word": "in",
+      "start": 31.32,
+      "end": 31.48,
+      "startFrame": 940,
+      "endFrame": 944
+    },
+    {
+      "word": "dress",
+      "start": 31.48,
+      "end": 31.7,
+      "startFrame": 944,
+      "endFrame": 951
+    },
+    {
+      "word": "trousers,",
+      "start": 31.7,
+      "end": 32.28,
+      "startFrame": 951,
+      "endFrame": 968
+    },
+    {
+      "word": "had",
+      "start": 32.68,
+      "end": 32.74,
+      "startFrame": 980,
+      "endFrame": 982
+    },
+    {
+      "word": "his",
+      "start": 32.74,
+      "end": 32.88,
+      "startFrame": 982,
+      "endFrame": 986
+    },
+    {
+      "word": "pants",
+      "start": 32.88,
+      "end": 33.12,
+      "startFrame": 986,
+      "endFrame": 994
+    },
+    {
+      "word": "snipped",
+      "start": 33.12,
+      "end": 33.66,
+      "startFrame": 994,
+      "endFrame": 1010
+    },
+    {
+      "word": "into",
+      "start": 33.66,
+      "end": 33.78,
+      "startFrame": 1010,
+      "endFrame": 1013
+    },
+    {
+      "word": "shorts",
+      "start": 33.78,
+      "end": 34.16,
+      "startFrame": 1013,
+      "endFrame": 1025
+    },
+    {
+      "word": "at",
+      "start": 34.16,
+      "end": 34.4,
+      "startFrame": 1025,
+      "endFrame": 1032
+    },
+    {
+      "word": "the",
+      "start": 34.4,
+      "end": 34.5,
+      "startFrame": 1032,
+      "endFrame": 1035
+    },
+    {
+      "word": "starting",
+      "start": 34.5,
+      "end": 34.8,
+      "startFrame": 1035,
+      "endFrame": 1044
+    },
+    {
+      "word": "line,",
+      "start": 34.8,
+      "end": 35.16,
+      "startFrame": 1044,
+      "endFrame": 1055
+    },
+    {
+      "word": "eight",
+      "start": 35.5,
+      "end": 35.64,
+      "startFrame": 1065,
+      "endFrame": 1069
+    },
+    {
+      "word": "rotten",
+      "start": 35.64,
+      "end": 36.0,
+      "startFrame": 1069,
+      "endFrame": 1080
+    },
+    {
+      "word": "orchard",
+      "start": 36.0,
+      "end": 36.56,
+      "startFrame": 1080,
+      "endFrame": 1097
+    },
+    {
+      "word": "apples,",
+      "start": 36.56,
+      "end": 36.82,
+      "startFrame": 1097,
+      "endFrame": 1105
+    },
+    {
+      "word": "took",
+      "start": 37.34,
+      "end": 37.44,
+      "startFrame": 1120,
+      "endFrame": 1123
+    },
+    {
+      "word": "a",
+      "start": 37.44,
+      "end": 37.56,
+      "startFrame": 1123,
+      "endFrame": 1127
+    },
+    {
+      "word": "roadside",
+      "start": 37.56,
+      "end": 37.88,
+      "startFrame": 1127,
+      "endFrame": 1136
+    },
+    {
+      "word": "nap,",
+      "start": 37.88,
+      "end": 38.44,
+      "startFrame": 1136,
+      "endFrame": 1153
+    },
+    {
+      "word": "and",
+      "start": 38.76,
+      "end": 38.92,
+      "startFrame": 1163,
+      "endFrame": 1168
+    },
+    {
+      "word": "still",
+      "start": 38.92,
+      "end": 39.34,
+      "startFrame": 1168,
+      "endFrame": 1180
+    },
+    {
+      "word": "placed",
+      "start": 39.34,
+      "end": 39.78,
+      "startFrame": 1180,
+      "endFrame": 1193
+    },
+    {
+      "word": "forth.",
+      "start": 39.78,
+      "end": 40.04,
+      "startFrame": 1193,
+      "endFrame": 1201
+    },
+    {
+      "word": "One",
+      "start": 40.76,
+      "end": 40.94,
+      "startFrame": 1223,
+      "endFrame": 1228
+    },
+    {
+      "word": "barefoot",
+      "start": 40.94,
+      "end": 41.48,
+      "startFrame": 1228,
+      "endFrame": 1244
+    },
+    {
+      "word": "runner",
+      "start": 41.48,
+      "end": 41.66,
+      "startFrame": 1244,
+      "endFrame": 1250
+    },
+    {
+      "word": "got",
+      "start": 41.66,
+      "end": 41.94,
+      "startFrame": 1250,
+      "endFrame": 1258
+    },
+    {
+      "word": "chased",
+      "start": 41.94,
+      "end": 42.16,
+      "startFrame": 1258,
+      "endFrame": 1265
+    },
+    {
+      "word": "a",
+      "start": 42.16,
+      "end": 42.44,
+      "startFrame": 1265,
+      "endFrame": 1273
+    },
+    {
+      "word": "mile",
+      "start": 42.44,
+      "end": 42.74,
+      "startFrame": 1273,
+      "endFrame": 1282
+    },
+    {
+      "word": "off",
+      "start": 42.74,
+      "end": 43.04,
+      "startFrame": 1282,
+      "endFrame": 1291
+    },
+    {
+      "word": "course",
+      "start": 43.04,
+      "end": 43.32,
+      "startFrame": 1291,
+      "endFrame": 1300
+    },
+    {
+      "word": "by",
+      "start": 43.32,
+      "end": 43.6,
+      "startFrame": 1300,
+      "endFrame": 1308
+    },
+    {
+      "word": "wild",
+      "start": 43.6,
+      "end": 43.84,
+      "startFrame": 1308,
+      "endFrame": 1315
+    },
+    {
+      "word": "dogs.",
+      "start": 43.84,
+      "end": 44.42,
+      "startFrame": 1315,
+      "endFrame": 1333
+    },
+    {
+      "word": "Meanwhile,",
+      "start": 45.16,
+      "end": 45.34,
+      "startFrame": 1355,
+      "endFrame": 1360
+    },
+    {
+      "word": "American",
+      "start": 45.92,
+      "end": 46.24,
+      "startFrame": 1378,
+      "endFrame": 1387
+    },
+    {
+      "word": "Fred",
+      "start": 46.24,
+      "end": 46.58,
+      "startFrame": 1387,
+      "endFrame": 1397
+    },
+    {
+      "word": "Lors",
+      "start": 46.58,
+      "end": 47.04,
+      "startFrame": 1397,
+      "endFrame": 1411
+    },
+    {
+      "word": "rode",
+      "start": 47.04,
+      "end": 47.34,
+      "startFrame": 1411,
+      "endFrame": 1420
+    },
+    {
+      "word": "11",
+      "start": 47.34,
+      "end": 47.82,
+      "startFrame": 1420,
+      "endFrame": 1435
+    },
+    {
+      "word": "miles",
+      "start": 47.82,
+      "end": 48.2,
+      "startFrame": 1435,
+      "endFrame": 1446
+    },
+    {
+      "word": "in",
+      "start": 48.2,
+      "end": 48.44,
+      "startFrame": 1446,
+      "endFrame": 1453
+    },
+    {
+      "word": "a",
+      "start": 48.44,
+      "end": 48.5,
+      "startFrame": 1453,
+      "endFrame": 1455
+    },
+    {
+      "word": "car,",
+      "start": 48.5,
+      "end": 48.88,
+      "startFrame": 1455,
+      "endFrame": 1466
+    },
+    {
+      "word": "waving",
+      "start": 49.14,
+      "end": 49.32,
+      "startFrame": 1474,
+      "endFrame": 1480
+    },
+    {
+      "word": "at",
+      "start": 49.32,
+      "end": 49.64,
+      "startFrame": 1480,
+      "endFrame": 1489
+    },
+    {
+      "word": "exhausted",
+      "start": 49.64,
+      "end": 49.9,
+      "startFrame": 1489,
+      "endFrame": 1497
+    },
+    {
+      "word": "runners,",
+      "start": 49.9,
+      "end": 50.48,
+      "startFrame": 1497,
+      "endFrame": 1514
+    },
+    {
+      "word": "then",
+      "start": 50.96,
+      "end": 51.08,
+      "startFrame": 1529,
+      "endFrame": 1532
+    },
+    {
+      "word": "jogged",
+      "start": 51.08,
+      "end": 51.54,
+      "startFrame": 1532,
+      "endFrame": 1546
+    },
+    {
+      "word": "across",
+      "start": 51.54,
+      "end": 51.72,
+      "startFrame": 1546,
+      "endFrame": 1552
+    },
+    {
+      "word": "the",
+      "start": 51.72,
+      "end": 51.98,
+      "startFrame": 1552,
+      "endFrame": 1559
+    },
+    {
+      "word": "finish",
+      "start": 51.98,
+      "end": 52.18,
+      "startFrame": 1559,
+      "endFrame": 1565
+    },
+    {
+      "word": "line,",
+      "start": 52.18,
+      "end": 52.54,
+      "startFrame": 1565,
+      "endFrame": 1576
+    },
+    {
+      "word": "until",
+      "start": 52.78,
+      "end": 53.06,
+      "startFrame": 1583,
+      "endFrame": 1592
+    },
+    {
+      "word": "officials",
+      "start": 53.06,
+      "end": 53.4,
+      "startFrame": 1592,
+      "endFrame": 1602
+    },
+    {
+      "word": "caught",
+      "start": 53.4,
+      "end": 53.8,
+      "startFrame": 1602,
+      "endFrame": 1614
+    },
+    {
+      "word": "him.",
+      "start": 53.8,
+      "end": 54.0,
+      "startFrame": 1614,
+      "endFrame": 1620
+    },
+    {
+      "word": "That",
+      "start": 54.44,
+      "end": 54.62,
+      "startFrame": 1633,
+      "endFrame": 1639
+    },
+    {
+      "word": "left",
+      "start": 54.62,
+      "end": 54.82,
+      "startFrame": 1639,
+      "endFrame": 1645
+    },
+    {
+      "word": "Thomas",
+      "start": 54.82,
+      "end": 55.3,
+      "startFrame": 1645,
+      "endFrame": 1659
+    },
+    {
+      "word": "Hicks",
+      "start": 55.3,
+      "end": 55.54,
+      "startFrame": 1659,
+      "endFrame": 1666
+    },
+    {
+      "word": "in",
+      "start": 55.54,
+      "end": 55.82,
+      "startFrame": 1666,
+      "endFrame": 1675
+    },
+    {
+      "word": "first.",
+      "start": 55.82,
+      "end": 56.08,
+      "startFrame": 1675,
+      "endFrame": 1682
+    },
+    {
+      "word": "When",
+      "start": 56.08,
+      "end": 56.74,
+      "startFrame": 1682,
+      "endFrame": 1702
+    },
+    {
+      "word": "he",
+      "start": 56.74,
+      "end": 56.86,
+      "startFrame": 1702,
+      "endFrame": 1706
+    },
+    {
+      "word": "began",
+      "start": 56.86,
+      "end": 57.12,
+      "startFrame": 1706,
+      "endFrame": 1714
+    },
+    {
+      "word": "hallucinating,",
+      "start": 57.12,
+      "end": 57.72,
+      "startFrame": 1714,
+      "endFrame": 1732
+    },
+    {
+      "word": "his",
+      "start": 58.12,
+      "end": 58.18,
+      "startFrame": 1744,
+      "endFrame": 1745
+    },
+    {
+      "word": "trainers",
+      "start": 58.18,
+      "end": 58.46,
+      "startFrame": 1745,
+      "endFrame": 1754
+    },
+    {
+      "word": "refused",
+      "start": 58.46,
+      "end": 58.98,
+      "startFrame": 1754,
+      "endFrame": 1769
+    },
+    {
+      "word": "him",
+      "start": 58.98,
+      "end": 59.34,
+      "startFrame": 1769,
+      "endFrame": 1780
+    },
+    {
+      "word": "water,",
+      "start": 59.34,
+      "end": 59.62,
+      "startFrame": 1780,
+      "endFrame": 1789
+    },
+    {
+      "word": "and",
+      "start": 60.0,
+      "end": 60.08,
+      "startFrame": 1800,
+      "endFrame": 1802
+    },
+    {
+      "word": "instead",
+      "start": 60.08,
+      "end": 60.4,
+      "startFrame": 1802,
+      "endFrame": 1812
+    },
+    {
+      "word": "fed",
+      "start": 60.4,
+      "end": 60.84,
+      "startFrame": 1812,
+      "endFrame": 1825
+    },
+    {
+      "word": "him",
+      "start": 60.84,
+      "end": 61.04,
+      "startFrame": 1825,
+      "endFrame": 1831
+    },
+    {
+      "word": "raw",
+      "start": 61.04,
+      "end": 61.26,
+      "startFrame": 1831,
+      "endFrame": 1838
+    },
+    {
+      "word": "egg",
+      "start": 61.26,
+      "end": 61.58,
+      "startFrame": 1838,
+      "endFrame": 1847
+    },
+    {
+      "word": "whites,",
+      "start": 61.58,
+      "end": 61.84,
+      "startFrame": 1847,
+      "endFrame": 1855
+    },
+    {
+      "word": "brandy,",
+      "start": 62.16,
+      "end": 62.7,
+      "startFrame": 1865,
+      "endFrame": 1881
+    },
+    {
+      "word": "and",
+      "start": 62.9,
+      "end": 62.94,
+      "startFrame": 1887,
+      "endFrame": 1888
+    },
+    {
+      "word": "strict",
+      "start": 62.94,
+      "end": 63.24,
+      "startFrame": 1888,
+      "endFrame": 1897
+    },
+    {
+      "word": "nine",
+      "start": 63.24,
+      "end": 63.58,
+      "startFrame": 1897,
+      "endFrame": 1907
+    },
+    {
+      "word": "rat",
+      "start": 63.58,
+      "end": 63.86,
+      "startFrame": 1907,
+      "endFrame": 1916
+    },
+    {
+      "word": "poison.",
+      "start": 63.86,
+      "end": 64.18,
+      "startFrame": 1916,
+      "endFrame": 1925
+    },
+    {
+      "word": "Two",
+      "start": 64.84,
+      "end": 65.0,
+      "startFrame": 1945,
+      "endFrame": 1950
+    },
+    {
+      "word": "men",
+      "start": 65.0,
+      "end": 65.28,
+      "startFrame": 1950,
+      "endFrame": 1958
+    },
+    {
+      "word": "literally",
+      "start": 65.28,
+      "end": 65.76,
+      "startFrame": 1958,
+      "endFrame": 1973
+    },
+    {
+      "word": "carried",
+      "start": 65.76,
+      "end": 66.26,
+      "startFrame": 1973,
+      "endFrame": 1988
+    },
+    {
+      "word": "him",
+      "start": 66.26,
+      "end": 66.62,
+      "startFrame": 1988,
+      "endFrame": 1999
+    },
+    {
+      "word": "over",
+      "start": 66.62,
+      "end": 66.82,
+      "startFrame": 1999,
+      "endFrame": 2005
+    },
+    {
+      "word": "the",
+      "start": 66.82,
+      "end": 66.94,
+      "startFrame": 2005,
+      "endFrame": 2008
+    },
+    {
+      "word": "finish",
+      "start": 66.94,
+      "end": 67.2,
+      "startFrame": 2008,
+      "endFrame": 2016
+    },
+    {
+      "word": "line",
+      "start": 67.2,
+      "end": 67.48,
+      "startFrame": 2016,
+      "endFrame": 2024
+    },
+    {
+      "word": "while",
+      "start": 67.48,
+      "end": 67.72,
+      "startFrame": 2024,
+      "endFrame": 2032
+    },
+    {
+      "word": "his",
+      "start": 67.72,
+      "end": 67.92,
+      "startFrame": 2032,
+      "endFrame": 2038
+    },
+    {
+      "word": "legs",
+      "start": 67.92,
+      "end": 68.2,
+      "startFrame": 2038,
+      "endFrame": 2046
+    },
+    {
+      "word": "kept",
+      "start": 68.2,
+      "end": 68.52,
+      "startFrame": 2046,
+      "endFrame": 2056
+    },
+    {
+      "word": "pumping",
+      "start": 68.52,
+      "end": 68.88,
+      "startFrame": 2056,
+      "endFrame": 2066
+    },
+    {
+      "word": "in",
+      "start": 68.88,
+      "end": 69.2,
+      "startFrame": 2066,
+      "endFrame": 2076
+    },
+    {
+      "word": "mid",
+      "start": 69.2,
+      "end": 69.38,
+      "startFrame": 2076,
+      "endFrame": 2081
+    },
+    {
+      "word": "-air.",
+      "start": 69.38,
+      "end": 69.66,
+      "startFrame": 2081,
+      "endFrame": 2090
+    },
+    {
+      "word": "Luckily,",
+      "start": 70.2,
+      "end": 70.4,
+      "startFrame": 2106,
+      "endFrame": 2112
+    },
+    {
+      "word": "nobody",
+      "start": 70.82,
+      "end": 71.0,
+      "startFrame": 2125,
+      "endFrame": 2130
+    },
+    {
+      "word": "died.",
+      "start": 71.0,
+      "end": 71.48,
+      "startFrame": 2130,
+      "endFrame": 2144
+    },
+    {
+      "word": "Unluckily,",
+      "start": 72.06,
+      "end": 72.6,
+      "startFrame": 2162,
+      "endFrame": 2178
+    },
+    {
+      "word": "over",
+      "start": 72.8,
+      "end": 72.96,
+      "startFrame": 2184,
+      "endFrame": 2189
+    },
+    {
+      "word": "half",
+      "start": 72.96,
+      "end": 73.36,
+      "startFrame": 2189,
+      "endFrame": 2201
+    },
+    {
+      "word": "the",
+      "start": 73.36,
+      "end": 73.58,
+      "startFrame": 2201,
+      "endFrame": 2207
+    },
+    {
+      "word": "runner's",
+      "start": 73.58,
+      "end": 73.96,
+      "startFrame": 2207,
+      "endFrame": 2219
+    },
+    {
+      "word": "quit,",
+      "start": 73.96,
+      "end": 74.22,
+      "startFrame": 2219,
+      "endFrame": 2227
+    },
+    {
+      "word": "and",
+      "start": 74.52,
+      "end": 74.58,
+      "startFrame": 2236,
+      "endFrame": 2237
+    },
+    {
+      "word": "his",
+      "start": 74.58,
+      "end": 74.7,
+      "startFrame": 2237,
+      "endFrame": 2241
+    },
+    {
+      "word": "winning",
+      "start": 74.7,
+      "end": 74.94,
+      "startFrame": 2241,
+      "endFrame": 2248
+    },
+    {
+      "word": "time",
+      "start": 74.94,
+      "end": 75.24,
+      "startFrame": 2248,
+      "endFrame": 2257
+    },
+    {
+      "word": "is",
+      "start": 75.24,
+      "end": 75.52,
+      "startFrame": 2257,
+      "endFrame": 2266
+    },
+    {
+      "word": "still",
+      "start": 75.52,
+      "end": 75.88,
+      "startFrame": 2266,
+      "endFrame": 2276
+    },
+    {
+      "word": "the",
+      "start": 75.88,
+      "end": 76.1,
+      "startFrame": 2276,
+      "endFrame": 2283
+    },
+    {
+      "word": "slowest",
+      "start": 76.1,
+      "end": 76.72,
+      "startFrame": 2283,
+      "endFrame": 2302
+    },
+    {
+      "word": "in",
+      "start": 76.72,
+      "end": 76.84,
+      "startFrame": 2302,
+      "endFrame": 2305
+    },
+    {
+      "word": "Olympic",
+      "start": 76.84,
+      "end": 77.08,
+      "startFrame": 2305,
+      "endFrame": 2312
+    },
+    {
+      "word": "history.",
+      "start": 77.08,
+      "end": 77.62,
+      "startFrame": 2312,
+      "endFrame": 2329
+    },
+    {
+      "word": "Running",
+      "start": 78.08,
+      "end": 78.34,
+      "startFrame": 2342,
+      "endFrame": 2350
+    },
+    {
+      "word": "in",
+      "start": 78.34,
+      "end": 78.54,
+      "startFrame": 2350,
+      "endFrame": 2356
+    },
+    {
+      "word": "90",
+      "start": 78.54,
+      "end": 78.78,
+      "startFrame": 2356,
+      "endFrame": 2363
+    },
+    {
+      "word": "-degree",
+      "start": 78.78,
+      "end": 79.14,
+      "startFrame": 2363,
+      "endFrame": 2374
+    },
+    {
+      "word": "heat",
+      "start": 79.14,
+      "end": 79.48,
+      "startFrame": 2374,
+      "endFrame": 2384
+    },
+    {
+      "word": "without",
+      "start": 79.48,
+      "end": 79.66,
+      "startFrame": 2384,
+      "endFrame": 2390
+    },
+    {
+      "word": "water",
+      "start": 79.66,
+      "end": 80.16,
+      "startFrame": 2390,
+      "endFrame": 2405
+    },
+    {
+      "word": "is",
+      "start": 80.16,
+      "end": 80.4,
+      "startFrame": 2405,
+      "endFrame": 2412
+    },
+    {
+      "word": "like",
+      "start": 80.4,
+      "end": 80.56,
+      "startFrame": 2412,
+      "endFrame": 2417
+    },
+    {
+      "word": "flooring",
+      "start": 80.56,
+      "end": 81.06,
+      "startFrame": 2417,
+      "endFrame": 2432
+    },
+    {
+      "word": "a",
+      "start": 81.06,
+      "end": 81.14,
+      "startFrame": 2432,
+      "endFrame": 2434
+    },
+    {
+      "word": "car",
+      "start": 81.14,
+      "end": 81.44,
+      "startFrame": 2434,
+      "endFrame": 2443
+    },
+    {
+      "word": "with",
+      "start": 81.44,
+      "end": 81.66,
+      "startFrame": 2443,
+      "endFrame": 2450
+    },
+    {
+      "word": "an",
+      "start": 81.66,
+      "end": 81.78,
+      "startFrame": 2450,
+      "endFrame": 2453
+    },
+    {
+      "word": "empty",
+      "start": 81.78,
+      "end": 82.04,
+      "startFrame": 2453,
+      "endFrame": 2461
+    },
+    {
+      "word": "radiator.",
+      "start": 82.04,
+      "end": 82.58,
+      "startFrame": 2461,
+      "endFrame": 2477
+    },
+    {
+      "word": "Your",
+      "start": 82.58,
+      "end": 83.08,
+      "startFrame": 2477,
+      "endFrame": 2492
+    },
+    {
+      "word": "blood",
+      "start": 83.08,
+      "end": 83.4,
+      "startFrame": 2492,
+      "endFrame": 2502
+    },
+    {
+      "word": "thickens,",
+      "start": 83.4,
+      "end": 83.96,
+      "startFrame": 2502,
+      "endFrame": 2519
+    },
+    {
+      "word": "your",
+      "start": 84.24,
+      "end": 84.28,
+      "startFrame": 2527,
+      "endFrame": 2528
+    },
+    {
+      "word": "body",
+      "start": 84.28,
+      "end": 84.62,
+      "startFrame": 2528,
+      "endFrame": 2539
+    },
+    {
+      "word": "overheats,",
+      "start": 84.62,
+      "end": 85.32,
+      "startFrame": 2539,
+      "endFrame": 2560
+    },
+    {
+      "word": "and",
+      "start": 85.52,
+      "end": 85.54,
+      "startFrame": 2566,
+      "endFrame": 2566
+    },
+    {
+      "word": "your",
+      "start": 85.54,
+      "end": 85.68,
+      "startFrame": 2566,
+      "endFrame": 2570
+    },
+    {
+      "word": "engine",
+      "start": 85.68,
+      "end": 85.98,
+      "startFrame": 2570,
+      "endFrame": 2579
+    },
+    {
+      "word": "seizes.",
+      "start": 85.98,
+      "end": 86.68,
+      "startFrame": 2579,
+      "endFrame": 2600
+    },
+    {
+      "word": "The",
+      "start": 87.32,
+      "end": 87.34,
+      "startFrame": 2620,
+      "endFrame": 2620
+    },
+    {
+      "word": "committee",
+      "start": 87.34,
+      "end": 87.6,
+      "startFrame": 2620,
+      "endFrame": 2628
+    },
+    {
+      "word": "nearly",
+      "start": 87.6,
+      "end": 88.0,
+      "startFrame": 2628,
+      "endFrame": 2640
+    },
+    {
+      "word": "banned",
+      "start": 88.0,
+      "end": 88.46,
+      "startFrame": 2640,
+      "endFrame": 2654
+    },
+    {
+      "word": "the",
+      "start": 88.46,
+      "end": 88.68,
+      "startFrame": 2654,
+      "endFrame": 2660
+    },
+    {
+      "word": "marathon",
+      "start": 88.68,
+      "end": 88.86,
+      "startFrame": 2660,
+      "endFrame": 2666
+    },
+    {
+      "word": "forever,",
+      "start": 88.86,
+      "end": 89.42,
+      "startFrame": 2666,
+      "endFrame": 2683
+    },
+    {
+      "word": "instead",
+      "start": 89.92,
+      "end": 90.16,
+      "startFrame": 2698,
+      "endFrame": 2705
+    },
+    {
+      "word": "making",
+      "start": 90.16,
+      "end": 90.58,
+      "startFrame": 2705,
+      "endFrame": 2717
+    },
+    {
+      "word": "regular",
+      "start": 90.58,
+      "end": 90.84,
+      "startFrame": 2717,
+      "endFrame": 2725
+    },
+    {
+      "word": "water",
+      "start": 90.84,
+      "end": 91.28,
+      "startFrame": 2725,
+      "endFrame": 2738
+    },
+    {
+      "word": "stations",
+      "start": 91.28,
+      "end": 91.7,
+      "startFrame": 2738,
+      "endFrame": 2751
+    },
+    {
+      "word": "mandatory.",
+      "start": 91.7,
+      "end": 92.24,
+      "startFrame": 2751,
+      "endFrame": 2767
+    },
+    {
+      "word": "As",
+      "start": 93.02,
+      "end": 93.14,
+      "startFrame": 2791,
+      "endFrame": 2794
+    },
+    {
+      "word": "for",
+      "start": 93.14,
+      "end": 93.28,
+      "startFrame": 2794,
+      "endFrame": 2798
+    },
+    {
+      "word": "Thomas",
+      "start": 93.28,
+      "end": 93.6,
+      "startFrame": 2798,
+      "endFrame": 2808
+    },
+    {
+      "word": "Hicks,",
+      "start": 93.6,
+      "end": 93.8,
+      "startFrame": 2808,
+      "endFrame": 2814
+    },
+    {
+      "word": "he",
+      "start": 94.36,
+      "end": 94.42,
+      "startFrame": 2831,
+      "endFrame": 2833
+    },
+    {
+      "word": "took",
+      "start": 94.42,
+      "end": 94.6,
+      "startFrame": 2833,
+      "endFrame": 2838
+    },
+    {
+      "word": "his",
+      "start": 94.6,
+      "end": 94.78,
+      "startFrame": 2838,
+      "endFrame": 2843
+    },
+    {
+      "word": "gold",
+      "start": 94.78,
+      "end": 94.9,
+      "startFrame": 2843,
+      "endFrame": 2847
+    },
+    {
+      "word": "medal,",
+      "start": 94.9,
+      "end": 95.22,
+      "startFrame": 2847,
+      "endFrame": 2857
+    },
+    {
+      "word": "collapsed,",
+      "start": 95.6,
+      "end": 95.86,
+      "startFrame": 2868,
+      "endFrame": 2876
+    },
+    {
+      "word": "and",
+      "start": 96.34,
+      "end": 96.38,
+      "startFrame": 2890,
+      "endFrame": 2891
+    },
+    {
+      "word": "immediately",
+      "start": 96.38,
+      "end": 96.84,
+      "startFrame": 2891,
+      "endFrame": 2905
+    },
+    {
+      "word": "retired",
+      "start": 96.84,
+      "end": 97.28,
+      "startFrame": 2905,
+      "endFrame": 2918
+    },
+    {
+      "word": "from",
+      "start": 97.28,
+      "end": 97.68,
+      "startFrame": 2918,
+      "endFrame": 2930
+    },
+    {
+      "word": "running",
+      "start": 97.68,
+      "end": 97.94,
+      "startFrame": 2930,
+      "endFrame": 2938
+    },
+    {
+      "word": "forever.",
+      "start": 97.94,
+      "end": 98.24,
+      "startFrame": 2938,
+      "endFrame": 2947
+    }
+  ]
+}
