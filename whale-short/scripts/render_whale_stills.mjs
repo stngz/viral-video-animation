@@ -1,12 +1,16 @@
 import fs from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { createRequire } from "node:module";
 import { execSync } from "node:child_process";
 
-const studioDir = path.resolve("c:/Users/NATHANIEL/Videos/Video Animation/marathon-short/studio");
-const outDir = path.resolve("c:/Users/NATHANIEL/Videos/Video Animation/whale-short/out/stills");
-const bundleDir = path.resolve("c:/Users/NATHANIEL/Videos/Video Animation/whale-short/out/bundle");
-const tmpDir = path.resolve("c:/Users/NATHANIEL/Videos/Video Animation/whale-short/tmp");
+const scriptDir = path.dirname(fileURLToPath(import.meta.url));
+const baseDir = path.resolve(scriptDir, "..");
+const repoRoot = path.resolve(baseDir, "..");
+const studioDir = path.join(repoRoot, "marathon-short", "studio");
+const outDir = path.join(baseDir, "out", "stills");
+const bundleDir = path.join(baseDir, "out", "bundle");
+const tmpDir = path.join(baseDir, "tmp");
 fs.mkdirSync(outDir, { recursive: true });
 fs.mkdirSync(tmpDir, { recursive: true });
 

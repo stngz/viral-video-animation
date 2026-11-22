@@ -83,7 +83,8 @@ Follow these quantitative targets (see [viral_retention_playbook.md](./reference
 3. Mux video + master audio:
    `ffmpeg -y -i silent.mp4 -i audio/mix.wav -map 0:v:0 -map 1:a:0 -c:v copy -c:a aac -b:a 192k -ar 48000 -movflags +faststart final.mp4`
 4. Run `short_qa.py` to confirm: exact frame count, `0` accidental black frames (excluding intentional blackout windows), `0` unexpected white frames, `0` frozen spans ≥ 12 frames, clean audio levels.
-5. Auto-register the finished MP4 into CapCut Desktop (`C:\Users\NATHANIEL\AppData\Local\CapCut\User Data\Projects\com.lveditor.draft\`) with a crisp extracted cover frame, and wipe `<project>/tmp/*` after completion.
+5. Auto-register the finished MP4 into CapCut Desktop (`%LOCALAPPDATA%\CapCut\User Data\Projects\com.lveditor.draft\`) with a crisp extracted cover frame, and wipe `<project>/tmp/*` after completion.
+6. **Portability Rule:** Always compute script paths dynamically (`os.path.abspath(__file__)`, `fileURLToPath(import.meta.url)`, `%LOCALAPPDATA%` / `os.path.expanduser("~")`) — never hardcode a machine-specific username like `C:\Users\...`.
 
 ---
 

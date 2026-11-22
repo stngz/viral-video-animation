@@ -1,9 +1,10 @@
-import json, wave
+import json, os, wave
 import numpy as np
 from faster_whisper import WhisperModel
 
-wav_16k = r"c:\Users\NATHANIEL\Videos\Video Animation\whale-short\voice\voice_16k.wav"
-out_path = r"c:\Users\NATHANIEL\Videos\Video Animation\whale-short\voice\words.json"
+voice_dir = os.path.dirname(os.path.abspath(__file__))
+wav_16k = os.path.join(voice_dir, "voice_16k.wav")
+out_path = os.path.join(voice_dir, "words.json")
 
 with wave.open(wav_16k, "rb") as wf:
     n = wf.getnframes()

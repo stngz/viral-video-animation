@@ -4,8 +4,9 @@ import os
 import sys
 from PIL import Image, ImageDraw, ImageFont
 
-stills_dir = r"c:\Users\NATHANIEL\Videos\Video Animation\marathon-short\out\stills"
-out_dir = r"c:\Users\NATHANIEL\Videos\Video Animation\marathon-short\out\sheets"
+base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+stills_dir = os.path.join(base_dir, "out", "stills")
+out_dir = os.path.join(base_dir, "out", "sheets")
 os.makedirs(out_dir, exist_ok=True)
 
 files = sorted(glob.glob(os.path.join(stills_dir, "f_*.jpg")))

@@ -1,8 +1,10 @@
 import fs from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { execSync } from "node:child_process";
 
-const baseDir = path.resolve("c:/Users/NATHANIEL/Videos/Video Animation/marathon-short");
+const scriptDir = path.dirname(fileURLToPath(import.meta.url));
+const baseDir = path.resolve(scriptDir, "..");
 const studioDir = path.join(baseDir, "studio");
 const bundleDir = path.join(baseDir, "out", "bundle");
 const outDir = path.join(baseDir, "out");

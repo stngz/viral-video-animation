@@ -9,8 +9,10 @@ import subprocess
 import time
 import uuid
 
-VIDEO_PATH = r"c:\Users\NATHANIEL\Videos\Video Animation\marathon-short\out\the_1904_olympic_marathon.mp4"
-CAPCUT_ROOT = r"C:\Users\NATHANIEL\AppData\Local\CapCut\User Data\Projects\com.lveditor.draft"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+VIDEO_PATH = os.path.join(BASE_DIR, "out", "the_1904_olympic_marathon.mp4")
+LOCAL_APPDATA = os.environ.get("LOCALAPPDATA", os.path.join(os.path.expanduser("~"), "AppData", "Local"))
+CAPCUT_ROOT = os.path.join(LOCAL_APPDATA, "CapCut", "User Data", "Projects", "com.lveditor.draft")
 DRAFT_NAME = "The 1904 Olympic Marathon"
 DURATION_US = 99_000_000  # 99.000 s in microseconds
 

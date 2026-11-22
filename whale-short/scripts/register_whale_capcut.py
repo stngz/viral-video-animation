@@ -1,8 +1,10 @@
 """Register The 1970 Exploding Whale directly into CapCut Desktop drafts."""
 import json, os, subprocess, time, uuid
 
-VIDEO_PATH = r"c:\Users\NATHANIEL\Videos\Video Animation\whale-short\out\the_1970_exploding_whale.mp4"
-CAPCUT_ROOT = r"C:\Users\NATHANIEL\AppData\Local\CapCut\User Data\Projects\com.lveditor.draft"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+VIDEO_PATH = os.path.join(BASE_DIR, "out", "the_1970_exploding_whale.mp4")
+LOCAL_APPDATA = os.environ.get("LOCALAPPDATA", os.path.join(os.path.expanduser("~"), "AppData", "Local"))
+CAPCUT_ROOT = os.path.join(LOCAL_APPDATA, "CapCut", "User Data", "Projects", "com.lveditor.draft")
 DRAFT_NAME = "The 1970 Exploding Whale"
 DURATION_US = 84_000_000
 

@@ -1,9 +1,12 @@
 import fs from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { execSync } from "node:child_process";
 
-const baseDir = path.resolve("c:/Users/NATHANIEL/Videos/Video Animation/whale-short");
-const studioDir = path.resolve("c:/Users/NATHANIEL/Videos/Video Animation/marathon-short/studio");
+const scriptDir = path.dirname(fileURLToPath(import.meta.url));
+const baseDir = path.resolve(scriptDir, "..");
+const repoRoot = path.resolve(baseDir, "..");
+const studioDir = path.join(repoRoot, "marathon-short", "studio");
 const bundleDir = path.join(baseDir, "out", "bundle");
 const outDir = path.join(baseDir, "out");
 const tmpDir = path.join(baseDir, "tmp");

@@ -19,7 +19,7 @@ FPS = 30
 TOTAL_FRAMES = 2970
 TOTAL_SAMPLES = int(round((TOTAL_FRAMES / FPS) * SR))
 
-BASE = r"c:\Users\NATHANIEL\Videos\Video Animation\marathon-short"
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 VOICE_WAV = os.path.join(BASE, "voice", "voice.wav")
 AUDIO_DIR = os.path.join(BASE, "audio")
 os.makedirs(AUDIO_DIR, exist_ok=True)
